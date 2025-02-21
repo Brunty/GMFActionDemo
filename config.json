@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "php", "dnd", "tabletop", "ttrpg", "ttrpgs", "dice", "homelab", "selfhosted", "selfhosting", "proxmox", "docker", "linux" ],
+    "Tags": [ "php", "dnd", "tabletop", "ttrpg", "ttrpgs", "dice", "homelab", "selfhosted", "selfhosting", "proxmox", "docker", "linux", "photography" ],
     "Instances": [ "hachyderm.io", "mastodon.social", "infosec.exchange" ]
 }
